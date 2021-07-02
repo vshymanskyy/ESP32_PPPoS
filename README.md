@@ -1,2 +1,2 @@
-# PPPoS_ESP32
+# ESP32_PPPoS
 PPP over Serial for ESP32
